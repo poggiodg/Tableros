@@ -17,7 +17,7 @@ function NavBar() {
       <img src={Logo} style={{width:114, height: 67, alignSelf: 'center', margin: 20}}/>
       </div>
       <div>
-        <Link to="/" className="element">
+        <Link to="/Tableros" className="element">
         Home
         </Link>
         <Link to="/Contact" className="element">

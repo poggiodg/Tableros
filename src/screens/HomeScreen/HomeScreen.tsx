@@ -13,7 +13,7 @@ function HomeScreen() {
           <h1>Esto es el Home!</h1>
       </div> */}
       <section  className='banner' style={{flexDirection: 'column', alignItems: 'center'}}>
-      <div style={{flexDirection: 'column', alignItems: 'center', marginBottom: 200, justifyContent:'center'}}>
+      <div style={{flexDirection: 'row', alignItems: 'center', marginBottom: 200, justifyContent:'center'}}>
         {/* <img src={vivenco} style={{width: 600, height: 500, alignSelf: 'center', marginTop:-200,}}/> */}
         <img src={Logo} style={{width:200, height: 80, alignSelf: 'center'}}/>
         <h1 style={{ color:'white'}}>Tableros de Control</h1>
