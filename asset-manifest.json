@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/Tableros/static/css/main.04118f5c.css",
-    "main.js": "/Tableros/static/js/main.3b1cf348.js",
-    "static/media/nasa-Q1p7bh3SHj8-unsplash.jpg": "/Tableros/static/media/nasa-Q1p7bh3SHj8-unsplash.de5659898d3bfc5eb8ea.jpg",
-    "static/media/background1.jpg": "/Tableros/static/media/background1.a185b1219575b9d106c3.jpg",
-    "static/media/Logo.jpg": "/Tableros/static/media/Logo.6204a449bcfeb5c00cba.jpg",
-    "index.html": "/Tableros/index.html",
-    "main.04118f5c.css.map": "/Tableros/static/css/main.04118f5c.css.map",
-    "main.3b1cf348.js.map": "/Tableros/static/js/main.3b1cf348.js.map"
+    "main.css": "/static/css/main.e2d75240.css",
+    "main.js": "/static/js/main.3a5e6a18.js",
+    "static/media/background1.jpg": "/static/media/background1.a185b1219575b9d106c3.jpg",
+    "static/media/1.jpg": "/static/media/1.b1dc10fdb10cf88969bf.jpg",
+    "index.html": "/index.html",
+    "main.e2d75240.css.map": "/static/css/main.e2d75240.css.map",
+    "main.3a5e6a18.js.map": "/static/js/main.3a5e6a18.js.map"
   },
   "entrypoints": [
-    "static/css/main.04118f5c.css",
-    "static/js/main.3b1cf348.js"
+    "static/css/main.e2d75240.css",
+    "static/js/main.3a5e6a18.js"
   ]
 }
