@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tableros/static/css/main.57c2cd10.css",
+    "main.js": "/tableros/static/js/main.1d954cf0.js",
+    "static/media/nasa-Q1p7bh3SHj8-unsplash.jpg": "/tableros/static/media/nasa-Q1p7bh3SHj8-unsplash.de5659898d3bfc5eb8ea.jpg",
+    "static/media/background1.jpg": "/tableros/static/media/background1.a185b1219575b9d106c3.jpg",
+    "static/media/Logo.jpg": "/tableros/static/media/Logo.6204a449bcfeb5c00cba.jpg",
+    "index.html": "/tableros/index.html",
+    "main.57c2cd10.css.map": "/tableros/static/css/main.57c2cd10.css.map",
+    "main.1d954cf0.js.map": "/tableros/static/js/main.1d954cf0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57c2cd10.css",
+    "static/js/main.1d954cf0.js"
+  ]
+}
