@@ -1,0 +1,58 @@
+body{
+    
+}
+.home{
+    background-color: rgb(176, 233, 233);
+}
+.banner{
+    height: 100vh;
+    background-image: url('../../assets/nasa-Q1p7bh3SHj8-unsplash.jpg');
+    background-color: rgb(64, 131, 189);
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.info{
+    display: flex;
+    min-height: 100vh;
+    background-image: url('../../assets/background1.jpg');
+    background-color: rgb(64, 131, 189);
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; 
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+}
+
+.info1{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: space-around;
+   align-content: center;
+   width: 40vw;
+   margin: 100px
+}
+
+.info1 .redText{
+    color: red;
+    font-weight: bolder;
+    width: 100%;
+    font-size: 24px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.info1 p{
+    color: rgb(66, 66, 66);
+    font-weight:bold;
+    width: 100%;
+    font-size: 18px;
+    text-align: justify;
+    text-justify: inter-word;
+}
