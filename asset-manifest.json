@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Tableros/static/css/main.1f6107bb.css",
-    "main.js": "/Tableros/static/js/main.9920d70e.js",
+    "main.css": "/Tableros/static/css/main.cbb41a93.css",
+    "main.js": "/Tableros/static/js/main.2cf501f9.js",
     "static/media/background1.jpg": "/Tableros/static/media/background1.a185b1219575b9d106c3.jpg",
     "static/media/1.jpg": "/Tableros/static/media/1.b1dc10fdb10cf88969bf.jpg",
     "index.html": "/Tableros/index.html",
-    "main.1f6107bb.css.map": "/Tableros/static/css/main.1f6107bb.css.map",
-    "main.9920d70e.js.map": "/Tableros/static/js/main.9920d70e.js.map"
+    "main.cbb41a93.css.map": "/Tableros/static/css/main.cbb41a93.css.map",
+    "main.2cf501f9.js.map": "/Tableros/static/js/main.2cf501f9.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f6107bb.css",
-    "static/js/main.9920d70e.js"
+    "static/css/main.cbb41a93.css",
+    "static/js/main.2cf501f9.js"
   ]
 }
