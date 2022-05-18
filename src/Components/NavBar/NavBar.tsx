@@ -20,17 +20,17 @@ function NavBar() {
         <Link to="/Tableros" className="element">
         Home
         </Link>
-        <Link to="/Contact" className="element">
-          Tablero
+        <Link to="/Finanzas" className="element">
+          Finanzas
         </Link>
         <Link to="/Contact" className="element">
-          Productos
+          Operaciones
         </Link>
         <Link to="/Contact" className="element">
-          Servicios
+          Comercial
         </Link>
         <Link to="/Contact" className="element">
-          Clientes
+          Recursos Humanos
         </Link>
       </div>
     </div>

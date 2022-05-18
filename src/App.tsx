@@ -10,6 +10,7 @@ import {
 } from "react-router-dom";
 import HomeScreen from './screens/HomeScreen/HomeScreen';
 import ContactScreen from './screens/ContactScreen/ContactScreen';
+import FinanzasScreen from './screens/FinanzasScreen/FinanzasScreen';
 import NavBar from './Components/NavBar/NavBar';
 
 const rootElement = document.getElementById("root");
@@ -20,6 +21,7 @@ function App() {
     <NavBar></NavBar>
     <Routes>
       <Route path="/Tableros" element={<HomeScreen></HomeScreen>} />
+      <Route path="/Finanzas" element={<FinanzasScreen></FinanzasScreen>} />
       <Route path="/Contact" element={<ContactScreen></ContactScreen>} />
     </Routes>
   </BrowserRouter>
