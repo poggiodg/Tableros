@@ -14,7 +14,7 @@ function HomeScreen() {
       </div> */}
       <section  className='banner' style={{flexDirection: 'column', alignItems: 'center'}}>
       <div style={{flexDirection:'row', alignItems: 'center', marginBottom: 200, justifyContent:'center'}}>
-        <h1 style={{ color:'white', textTransform: "uppercase"}}>Tableros de Control</h1>
+        <h1 style={{ color:'white', textTransform: "uppercase"}}>Tablero de Control</h1>
         <div style={{width:100, height: 5, backgroundColor:'#ef3742'}}></div>
       </div>
       
